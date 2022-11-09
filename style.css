@@ -1,0 +1,48 @@
+.header {
+    text-align: center;
+    background-color: #000;
+}
+.it1 a {
+    text-decoration:none;
+    color:inherit;
+    font-size:14px;
+}
+.it1 {
+    display:inline-block;
+    padding:5px 10px;
+    background-color:#000;
+    border:1px solid #000;
+    text-align:center;
+    color:#fff;
+}
+
+.it1:hover {
+    background-color: darkgray;
+    border:1px solid darkgray;
+    border-bottom: 3px solid rgb(71, 71, 71);
+    color: #000;
+}
+
+main h1 {
+    text-align: center;
+}
+.main .dimg {
+    text-align: center;
+}
+.dimg img {
+    width: 300px;
+}
+.fotos {
+    height: 200px;
+}
+.footer p {
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+.footer {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    font-size: smaller;
+}
